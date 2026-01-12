@@ -1,0 +1,14 @@
+
+----------------------------
+Total Credited Transactions: 0
+Total Debited Transactions: 0
+Final Balance: 60000
+----------------------------
+Credited: 100
+Debited: 50
+
+----------------------------
+Total Credited Transactions: 1
+Total Debited Transactions: 1
+Final Balance: 60050
+----------------------------

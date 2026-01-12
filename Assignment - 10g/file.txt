@@ -1,0 +1,9 @@
+Credited: 10000
+Debited: 400
+Debited: 10
+
+----------------------------
+Total Credited Transactions: 1
+Total Debited Transactions: 2
+Final Balance: 69590
+----------------------------

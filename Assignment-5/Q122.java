@@ -1,0 +1,27 @@
+//     1
+//    123
+//   12345
+//  1234567
+// 123456789
+
+class Q122{
+    public static void main (String[]args){
+        int n = 5;
+        int j =0;
+        int k = 0;
+        int i=0;
+        // int count = 0;
+        for( i =1; i<=n; i++){
+            for ( j =1; j<=n-i; j++){
+                System.out.print(" ");
+            }
+            for ( k=1; k<=2*i-1; k++){
+            
+                System.out.print(k);
+                }
+                // count++;
+        System.out.println();
+                }
+            }
+        }
+    
